@@ -262,8 +262,11 @@ python demo-bot.py
 ```
 
 
-# Author
-Clement T. Okolo
-Ph.D. Computer Science (2025)
-Summer 2024 Data Scientist Intern,
-Scale AI, The Vanguard Group
+# Reference
+@article{zhu2022convlab3,
+    title={ConvLab-3: A Flexible Dialogue System Toolkit Based on a Unified Data Format},
+    author={Qi Zhu and Christian Geishauser and Hsien-chin Lin and Carel van Niekerk and Baolin Peng and Zheng Zhang and Michael Heck and Nurul Lubis and Dazhen Wan and Xiaochen Zhu and Jianfeng Gao and Milica Gašić and Minlie Huang},
+    journal={arXiv preprint arXiv:2211.17148},
+    year={2022},
+    url={http://arxiv.org/abs/2211.17148}
+}
